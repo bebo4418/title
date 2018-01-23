@@ -1,0 +1,11 @@
+@media (min-width:400px) { h1
+    {background-color: green;
+}
+
+@media (min-width:800px) {
+    background-color: blue;
+}
+
+@media (min-width:1024px) {
+    background-color: black;
+}
