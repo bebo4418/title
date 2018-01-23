@@ -1,3 +1,15 @@
+
 body{background-image:url("https://i.ytimg.com/vi/SE_FnuD9zJc/maxresdefault.jpg")}
 #orange {color: red;}
 .web{color: orange}
+
+header{background-color: red;
+}
+ul{list-style: none;
+}
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 0 15px;
+        
+}
